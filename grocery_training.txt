@@ -1,0 +1,1060 @@
+I   0
+need    0
+2KG MESUREMENT
+of  0
+samba   FOOD_ITEM 
+rice    FOOD_ITEM 
+and 0 
+2   MEASUREMENT 
+ltr MEASUREMENT
+coconut FOOD_ITEM
+oil FOOD_ITEM
+
+
+I   0
+need    0
+10  MESUREMENT  
+kg  MESUREMENT
+of  0
+wheat   FOOD_ITEM
+
+
+
+I   0
+want    0
+to  0
+buy 0
+tooth   FOOD_ITEM
+brush   FOOD_ITEM
+and 0
+pepsodent   FOOD_ITEM
+paste   FOOD_ITEM
+
+
+I   0
+am  0
+looking 0
+for 0
+3   MEASUREMENT
+pocket  MEASUREMENT
+Maggie  FOOD_ITEM
+Noodles FOOD_ITEM
+
+
+
+
+I   0
+need    0
+10  MEASUREMENT
+KGS     MEASUREMENT
+of  0
+wheat   FOOD_ITEM
+for     0
+baking  0
+bread.  0
+
+
+I   0
+want    0
+to  0
+buy     0
+a   0
+toothbrush  FOOD_ITEM
+and     0
+some    0
+Pepsodent   FOOD_ITEM
+toothpaste. FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+3   MEASUREMENT
+packets MEASUREMENT
+of  0
+Maggie  FOOD_ITEM
+Noodles FOOD_ITEM
+for     0
+a   0
+quick   0
+meal.   0
+
+
+I   0
+want    0
+1   MEASUREMENT
+ltr     MEASUREMENT
+of  0
+milk    FOOD_ITEM
+and     0
+a   0
+loaf    0    
+of  0
+bread.  FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+pasta   FOOD_ITEM
+and     0
+cereal. FOOD_ITEM
+
+
+I   0
+need    0
+chicken FOOD_ITEM
+and     0
+ground  FOOD_ITEM
+beef    FOOD_ITEM
+for     0
+tonight's   0
+dinner. 0
+
+
+I   0
+want    0
+to  0
+get     0
+fresh   0
+vegetables  FOOD_ITEM
+like    0
+carrots,    FOOD_ITEM
+broccoli,   FOOD_ITEM
+and     0
+lettuce.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+fresh   0
+fruits  0
+such    0
+as  0
+apples, FOOD_ITEM
+bananas,    FOOD_ITEM
+and     0
+oranges.    FOOD_ITEM
+
+
+I   0
+need    0
+yogurt  FOOD_ITEM
+and     0
+cheese  FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+flour,  FOOD_ITEM
+sugar,  FOOD_ITEM
+salt,   FOOD_ITEM
+and     0
+pepper. FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+beans   FOOD_ITEM
+and     0
+tomatoes    FOOD_ITEM
+for     0
+my  0
+pantry. 0
+
+
+I   0
+want    0
+to  0
+add     0
+pasta   FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+frozen  FOOD_ITEM
+vegetables  FOOD_ITEM
+to  0
+the     0
+shopping    0
+list.   0
+
+
+I   0
+need    0
+snack   FOOD_ITEM
+bars    FOOD_ITEM
+and     0
+breakfast   FOOD_ITEM
+bars    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+coffee  FOOD_ITEM
+and     0
+tea     FOOD_ITEM
+for     0
+my  0
+mornings.   0
+
+
+I'm     0
+looking 0
+for     0
+juice,  FOOD_ITEM
+soft    FOOD_ITEM
+drinks, FOOD_ITEM
+and     0
+bottled FOOD_ITEM
+water.  FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+tuna    FOOD_ITEM
+and     0
+soup    FOOD_ITEM
+for     0
+my  0
+meals.  0
+
+
+I'm     0
+looking 0
+for     0
+chips,  FOOD_ITEM
+cookies,    FOOD_ITEM
+and     0
+chocolate   FOOD_ITEM
+
+
+I   0
+need    0
+nuts    FOOD_ITEM
+for     0
+a   0
+healthy 0
+and     0
+convenient  0
+snack.  0
+
+
+I   0
+want    0
+to  0
+buy     0
+oatmeal FOOD_ITEM
+and     0
+granola FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+salad   FOOD_ITEM
+dressing,   FOOD_ITEM
+mayonnaise, FOOD_ITEM
+ketchup,    FOOD_ITEM
+and     0
+mustard.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+spices  FOOD_ITEM
+like    0
+cinnamon,   FOOD_ITEM
+cumin,  FOOD_ITEM
+and     0
+paprika.    FOOD_ITEM
+
+
+I   0
+need    0
+condiments  0
+like    0
+soy     FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+vinegar.    FOOD_ITEM
+
+I'm     0
+looking 0
+for     0
+spices  0
+like    0
+cinnamon,   FOOD_ITEM
+cumin,  FOOD_ITEM
+and     0
+paprika.    FOOD_ITEM
+
+
+I   0
+need    0
+condiments  0
+like    0
+soy     FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+vinegar.    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+have    0
+frozen  FOOD_ITEM
+pizza   FOOD_ITEM
+and     0
+ice     FOOD_ITEM
+cream   FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+frozen  FOOD_ITEM
+meals   FOOD_ITEM
+
+
+I   0
+need    0
+snack   FOOD_ITEM
+packs   FOOD_ITEM
+for     0
+on-the-go   0
+munching.   0
+
+
+I   0
+want    0
+energy  FOOD_ITEM
+drinks  FOOD_ITEM
+and     0
+protein FOOD_ITEM
+powder  FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+dish    FOOD_ITEM
+soap,   FOOD_ITEM
+laundry FOOD_ITEM
+detergent,  FOOD_ITEM
+and     0
+paper   FOOD_ITEM
+towels. FOOD_ITEM
+
+
+I   0
+need    0
+1   MESUREMENT
+ltr     MESUREMENT
+of  0
+milk    FOOD_ITEM
+and     0
+a   0
+loaf    FOOD_ITEM
+of  0
+bread.  FOOD_ITEM
+
+
+I   0
+want    0
+a   0
+dozen   MESUREMENT
+eggs    FOOD_ITEM
+and     0
+a   0
+packet  0
+of  0
+rice.   FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+pasta   FOOD_ITEM
+and     0
+cereal. FOOD_ITEM
+
+
+I   0
+need    0
+chicken FOOD_ITEM
+and     0
+ground  FOOD_ITEM
+beef    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+get     0
+fresh   0
+vegetables  0
+like    0
+carrots,    FOOD_ITEM
+broccoli,   FOOD_ITEM
+and     0
+lettuce.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+fresh   0
+fruits  0
+such    0
+as  0
+apples, FOOD_ITEM
+bananas,    FOOD_ITEM
+and     0
+oranges.    FOOD_ITEM
+
+
+I   0
+need    0
+yogurt  FOOD_ITEM
+and     0
+cheese  FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+butter  FOOD_ITEM
+and     0
+a   0
+bottle  0
+of  0
+cooking FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+flour,  FOOD_ITEM
+sugar,  FOOD_ITEM
+salt,   FOOD_ITEM
+and     0
+pepper. FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+beans   FOOD_ITEM
+and     0
+tomatoes    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+add     0
+pasta   FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+frozen  FOOD_ITEM
+vegetables  FOOD_ITEM
+to  0
+the     0
+shopping    0
+list.   0
+
+
+I'm     0
+looking 0
+for     0
+frozen  FOOD_ITEM   
+fruits  FOOD_ITEM
+for     0
+smoothies   FOOD_ITEM
+and     0
+snacks. FOOD_ITEM
+
+
+I   0
+need    0
+snack   FOOD_ITEM
+bars    FOOD_ITEM
+and     0
+breakfast   FOOD_ITEM
+bars    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+coffee  FOOD_ITEM
+and     0
+tea     FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+juice,  FOOD_ITEM
+soft    FOOD_ITEM
+drinks, FOOD_ITEM
+and     0
+bottled 0
+water.  FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+tuna    FOOD_ITEM
+and     0
+soup    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+get     0
+peanut  FOOD_ITEM
+butter  FOOD_ITEM
+and     0
+jelly   FOOD_ITEM
+or  0
+jam     FOOD_ITEM
+for     0
+sandwiches. 0
+
+
+I'm     0
+looking 0
+for     0
+chips,  FOOD_ITEM
+cookies,    FOOD_ITEM
+and     0
+chocolate   FOOD_ITEM
+
+
+I   0
+need    0
+nuts    FOOD_ITEM
+for     0
+a   0
+healthy 0
+and     0
+convenient  0
+snack.  FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+oatmeal FOOD_ITEM
+and     0
+granola FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+salad   FOOD_ITEM
+dressing,   FOOD_ITEM
+mayonnaise, FOOD_ITEM
+ketchup,    FOOD_ITEM
+and     0
+mustard.    FOOD_ITEM
+
+
+I   0
+need    0
+pickles FOOD_ITEM
+and     0
+salsa   FOOD_ITEM
+for     0
+my  0
+recipes.    0
+
+
+I   0
+want    0
+to  0
+get     0
+baking  FOOD_ITEM
+powder, FOOD_ITEM
+baking  FOOD_ITEM
+soda,   FOOD_ITEM
+and     0
+yeast   FOOD_ITEM
+for     0
+baking. 0
+
+
+I'm     0
+looking 0
+for     0
+spices  FOOD_ITEM
+like    0
+cinnamon,   FOOD_ITEM
+cumin,  FOOD_ITEM
+and     0
+paprika.    FOOD_ITEM
+
+
+I   0
+need    0
+condiments  0
+like    0
+soy     0
+sauce   FOOD_ITEM
+and     0
+vinegar.    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+have    0
+frozen  FOOD_ITEM
+pizza   FOOD_ITEM
+and     0
+ice     FOOD_ITEM
+cream   FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+frozen  FOOD_ITEM
+meals   FOOD_ITEM
+for     0
+busy    0
+days.   0
+
+
+I   0
+need    0
+snack   FOOD_ITEM
+packs   FOOD_ITEM
+for     0
+on-the-go   0
+munching.   0
+
+
+I   0
+want    0
+energy  FOOD_ITEM
+drinks  FOOD_ITEM
+and     0
+protein FOOD_ITEM
+powder  FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+dish    FOOD_ITEM
+soap,   FOOD_ITEM
+laundry FOOD_ITEM
+detergent,  FOOD_ITEM
+and     0
+paper   FOOD_ITEM
+towels. FOOD_ITEM
+
+
+I   0
+need    0
+2   MESUREMENT
+KGS     MESUREMENT
+of  0
+samba   FOOD_ITEM
+rice    FOOD_ITEM
+and     0
+2   MESUREMENT
+ltrs    MESUREMENT
+of  0
+coconut FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I   0
+need    0
+10  MESUREMENT
+KGS     MESUREMENT
+of  0
+wheat   FOOD_ITEM
+for     0
+baking  FOOD_ITEM
+bread.  FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+a   0
+toothbrush  FOOD_ITEM
+and     0
+some    0
+Pepsodent   FOOD_ITEM
+toothpaste. FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+3   MESUREMENT
+packets MESUREMENT
+of  0
+Maggie  FOOD_ITEM
+Noodles FOOD_ITEM
+for     0
+a   0
+quick   0
+meal.   0
+
+
+I   0
+need    0
+1   MESUREMENT
+ltr     MESUREMENT
+of  0
+milk    FOOD_ITEM
+and     0
+a   0
+loaf    FOOD_ITEM
+of  0
+bread.  FOOD_ITEM
+
+
+I   0
+want    0
+a   0
+dozen   MESUREMENT
+eggs    FOOD_ITEM
+and     0
+a   0
+packet  MESUREMENT
+of  0
+rice.   FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+pasta   FOOD_ITEM
+and     0
+cereal. FOOD_ITEM
+
+
+I   0
+need    0
+chicken FOOD_ITEM
+and     0
+ground  FOOD_ITEM
+beef    FOOD_ITEM
+for     0
+tonight's   0
+dinner. 0
+
+
+I   0
+want    0
+to  0
+get     0
+fresh   0
+vegetables  0
+like    0
+carrots,    FOOD_ITEM
+broccoli,   FOOD_ITEM
+and     0
+lettuce.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+fresh   0
+fruits  0
+such    0
+as  0
+apples, FOOD_ITEM
+bananas,    FOOD_ITEM
+and     0
+oranges.    FOOD_ITEM
+
+
+I   0
+need    0
+yogurt  FOOD_ITEM
+and     0
+cheese  FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+butter  FOOD_ITEM
+and     0
+a   0
+bottle  0
+of  0
+cooking FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+flour,  FOOD_ITEM
+sugar,  FOOD_ITEM
+salt,   FOOD_ITEM
+and     0
+pepper. FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+beans   FOOD_ITEM
+and     0
+tomatoes    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+add     0
+pasta   FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+frozen  FOOD_ITEM
+vegetables  FOOD_ITEM
+to  0
+the     0
+shopping    0
+list.   0
+
+
+I'm     0
+looking 0
+for     0
+frozen  FOOD_ITEM
+fruits  FOOD_ITEM
+for     0
+smoothies   0
+and     0
+snacks. FOOD_ITEM
+
+
+I   0
+need    0
+2   MESUREMENT
+KGS     MESUREMENT
+of  0
+samba   FOOD_ITEM
+rice    FOOD_ITEM
+and     0
+2   MESUREMENT
+ltrs    MESUREMENT
+of  0
+coconut FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I   0
+need    0
+10  MESUREMENT
+KGS     MESUREMENT
+of  0
+wheat   FOOD_ITEM
+for     0
+baking  FOOD_ITEM
+bread.  FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+3   MESUREMENT
+packets MESUREMENT
+of  0
+Maggie  FOOD_ITEM
+Noodles FOOD_ITEM
+
+
+I   0
+want    0
+1   MESUREMENT
+ltr     MESUREMENT
+of  0
+milk    FOOD_ITEM
+and     0
+a   0
+loaf    FOOD_ITEM
+of  0
+bread.  FOOD_ITEM
+
+
+I   0
+need    0
+a   0
+dozen   0
+eggs    FOOD_ITEM
+and     0
+2   MESUREMENT
+KGS     MESUREMENT
+of  0
+rice.   FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+pasta   FOOD_ITEM
+and     0
+cereal. FOOD_ITEM
+
+
+I   0
+need    0
+1   MESUREMENT
+KGS     MESUREMENT
+of  0
+chicken FOOD_ITEM
+and     0
+500     MESUREMENT
+grams   MESUREMENT
+of  0
+ground  FOOD_ITEM
+beef    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+get     0
+fresh   0
+vegetables  0
+like    0
+2   MESUREMENT
+KGS     MESUREMENT
+of  0
+carrots,    FOOD_ITEM
+1   MESUREMENT
+KGS     MESUREMENT
+of  0
+broccoli,   FOOD_ITEM
+and     0
+a   0
+head    0
+of  0
+lettuce.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+fresh   0
+fruits  0
+such    0
+as  0
+3   MESUREMENT
+apples, FOOD_ITEM
+2   MESUREMENT
+bananas,    FOOD_ITEM
+and     0
+4   MESUREMENT
+oranges.    FOOD_ITEM
+
+
+I   0
+need    0
+1   MESUREMENT
+ltr     MESUREMENT
+of  0
+yogurt  FOOD_ITEM
+and     0
+500     MESUREMENT
+grams   MESUREMENT
+of  0
+cheese  FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+buy     0
+250     MESUREMENT
+grams   MESUREMENT
+of  0
+butter  FOOD_ITEM
+and     0
+a   0
+bottle  0
+of  0
+cooking FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+2   MESUREMENT
+KGS     MESUREMENT
+of  0
+flour,  FOOD_ITEM
+1   MESUREMENT
+KGS     MESUREMENT
+of  0
+sugar,  FOOD_ITEM
+and     0
+500     MESUREMENT
+grams   MESUREMENT
+each    0
+of  0
+salt    FOOD_ITEM
+and     0
+pepper. FOOD_ITEM
+
+
+I   0
+need    0
+canned  FOOD_ITEM
+beans   FOOD_ITEM
+and     0
+2   MESUREMENT
+cans    MESUREMENT
+of  0
+tomatoes    FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+add     0
+a   0
+jar     MESUREMENT
+of  0
+pasta   FOOD_ITEM
+sauce   FOOD_ITEM
+and     0
+a   0
+bag     0
+of  0
+frozen  FOOD_ITEM
+vegetables  FOOD_ITEM
+to  0
+the     0
+shopping    0
+list.   0

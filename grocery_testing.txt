@@ -1,0 +1,55 @@
+I   0
+want    0
+to  0
+buy 0
+tooth   FOOD_ITEM
+brush   FOOD_ITEM
+and 0
+pepsodent   FOOD_ITEM
+paste   FOOD_ITEM
+
+I   0
+need    0
+a   0
+dozen   MEASUREMENT
+eggs    MEASUREMENT
+and     0
+a   0
+packet  MEASUREMENT
+of  0
+rice.   FOOD_ITEM
+
+I   0
+want    0
+to  0
+buy     0
+butter  FOOD_ITEM
+and     0
+a   0
+bottle  MEASUREMENT
+of  0
+cooking FOOD_ITEM
+oil.    FOOD_ITEM
+
+
+I'm     0
+looking 0
+for     0
+frozen  FOOD_ITEM
+fruits  FOOD_ITEM
+for     0
+smoothies   FOOD_ITEM
+and     0
+snacks. FOOD_ITEM
+
+
+I   0
+want    0
+to  0
+get     0
+peanut  FOOD_ITEM
+butter  FOOD_ITEM
+and     0
+jelly   FOOD_ITEM
+or  0
+jam     FOOD_ITEM
