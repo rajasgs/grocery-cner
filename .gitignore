@@ -172,3 +172,8 @@ input.csv
 
 
 *_output.txt
+
+# Custom ignore files
+grocery_track.json
+grocery_training_new.txt
+grocery_unique.csv

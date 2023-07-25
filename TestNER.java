@@ -126,8 +126,8 @@ public class TestNER {
 
 # Compiling the Java file
 
+javac -cp "./jars/*:." TestNER.java
 
-java -cp "./jars/*:." TestNER.java
-
+java -cp "./jars/*:." TestNER
 
  */

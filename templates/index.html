@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+​
+{% block title %}
+Upload CSV
+{% endblock %}
+​
+{% block content %}
+    <main class="page contact-us-page">
+        <section class="clean-block clean-form dark">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info">Grocery inputs</h2>
+      
+                </div>
+​
+                
+    <div class="container">
+        <br><br>
+        <div class="row">
+            <div class="col-sm-6">
+                <form action="/address_submit" method="POST">
+                    <div class="container">
+      
+                      {% if result %}
+                      <!-- <bold>Result</bold>: {{result}} -->
+                      {% for address in result %}
+                          {%set index2 = loop.index%}
+      
+                      <div class="card">
+                          <div class="card-body">
+                              {% for split in address %}
+                              <div class="row">
+                                  <div class="col-sm-6">
+                                      <p align="">{{split}}</p>
+                                  </div>
+                                  <div class="col-sm-6">
+                                      <input type="hidden" id="address_src" name=src{{index2}} class="text add" value={{split}}>
+      
+                                      <input type="text" id="address_input" name=add{{index2}} class="text add" ondrop="removeExisitingContent()">
+                                  </div>
+                                  
+                              </div>
+                              {% endfor %}
+      
+                          </div>
+                        </div>
+      
+      
+                      {% endfor %}
+      
+      
+      
+                    {% endif %}
+      
+         <br>
+                        <div align="center">
+                        <input type="submit" value="Submit" style="background-color: rgb(39, 57, 93);color: white;border-radius: 5px">
+      
+                        </div>
+                      </form>
+      
+            </div>
+            <!-- <div class="col-sm-6" style="flex-direction: right;">
+                <script>
+                    document.addEventListener('dragstart', function (event) {
+                        // event.target.innerHTML = ''
+                    event.dataTransfer.setData('Text', event.target.innerHTML);
+                    });
+                    function removeExisitingContent() {
+                        console.log(this)
+                        this.innerHTML=''
+                    }
+                    </script>
+                 
+                 <div id="buttons">
+                    <p draggable="true" id="1">0</p>
+                    <p draggable="true" id="2">Street name</p>
+                    <p draggable="true" id="3">House No</p>
+                    <p draggable="true" id="4">Suite NO</p>
+                    <p draggable="true" id="5">Drag'n'Drop-Test</p>
+                  </div>
+            </div> -->
+        </div>
+       
+                  <br>
+​
+                  
+                  
+              
+              </div>
+          
+​
+​
+            </div>
+        </section>
+    </main>
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
