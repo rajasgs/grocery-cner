@@ -123,9 +123,6 @@ def address_form_submit():
             print([add_src[n],add_temp[n]])
         data.append(temp)
 
-    
-
-
     print(data)
 
     dump_to_file(data)
