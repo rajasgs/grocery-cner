@@ -19,7 +19,7 @@ from datetime import datetime
 import simple_transformer_loader as stl
 import pandas as pd
 
-LIMIT = 1000
+LIMIT = 5000
 
 def startpy():
 
